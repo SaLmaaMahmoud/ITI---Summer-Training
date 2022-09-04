@@ -56,7 +56,7 @@ void Cast_Vote( )
 {
 	system("cls");
 		
-	u8 id ; //To take the book id from admin
+	u8 id ; //To take the id from user
     u8 i ;
 	
     printf("\n\n\n\n\t\t\t***** Please Enter Your Cnadidate *****\n") ;
