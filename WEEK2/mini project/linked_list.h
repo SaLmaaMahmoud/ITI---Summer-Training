@@ -19,10 +19,6 @@ void appendNode( u8* name , u8 ID ) ;
 
 void printNames( ) ;
 
-data_* inputNode( data_* node ) ;
-
-void printNode( data_* node ) ;
-
 
 
 #endif // LINKED_LIST
