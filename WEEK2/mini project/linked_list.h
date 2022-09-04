@@ -9,7 +9,6 @@
 typedef struct data
 {
     u8 name[50] ;
-    //u16 votes ;
 	u8 ID ;
     
 	struct data *next ;
